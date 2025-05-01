@@ -1,47 +1,51 @@
-# 👋 Hi there, I'm Ali Askari!
+# 👋 Hey, I'm Ali Askari!
 
-🎓 A passionate **Frontend Developer** & **UI/UX Designer**  
-🎯 Currently learning **Backend Development, Python, and APIs**  
-🚀 Focused on building real-world apps using **Next.js**, **TypeScript**, and **TailwindCSS**
-
----
-
-## 💼 About Me
-
-- 🔭 I’m currently working on:  
-  A **Python MCQs Test Platform**, a **Quiz App**, and a **Food Delivery Website**
-  
-- 🌱 I’m learning:  
-  Backend with **Python**, **PostgreSQL**, **Firebase**, and **Cloud Deployment (Vercel, AWS)**
-
-- 👨‍💻 My goal:  
-  Become a successful full-stack developer and build impactful software projects
+I'm a self-taught **Frontend Developer** and **UI/UX Designer**, currently expanding my skills into **Backend Development**, **Python**, and **APIs**.  
+Proud **Student Leader at GIAIC** and dedicated to building powerful web apps with modern technologies like **Next.js**, **React**, and **Tailwind CSS**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+- 💡 **Learning Never Stops**: Constantly exploring Next.js, TypeScript, and full-stack development
+- 🧠 Currently focused on:
+  - A **Python MCQs Test Platform**
+  - A dynamic **Quiz App** with categories and levels
+  - A feature-rich **Food Delivery Website** (with Stripe, Cart, and Tracking)
+- 🧪 I’ve participated in **Hackathons**, completing all 5 milestones with real deployed projects
+- 👨‍🎓 Student at **GIAIC (Governor Initiative for AI and Computing)**
+- 🧭 Long-term goal: Build powerful, user-centric platforms and become a successful entrepreneur
 
 ---
 
-## 📂 Featured Projects
+## 🔧 Tech Stack & Tools
 
-| Project Name | Description | Live | Code |
-|--------------|-------------|------|------|
-| **Python Quiz Platform** | Fully responsive Python MCQs app with levels, result analysis, PDF download | [Live](https://your-live-link.com) | [Code](https://github.com/your-username/python-quiz-app) |
-| **Sketchly** | Real-time collaborative canvas using Next.js, Clerk, Firebase, and S3 | [Live](https://sketchly.vercel.app) | [Code](https://github.com/your-username/sketchly) |
-| **Food Delivery Website** | Modern food ordering app with cart, tracking, and Stripe payments | Coming Soon | In Progress |
+**Languages & Frameworks**
+- HTML5, CSS3, JavaScript (ES6+), TypeScript
+- React.js, Next.js (App Router)
+- TailwindCSS, Shadcn/UI
+- Node.js (learning), Python (learning)
+
+**Backend / Databases**
+- Firebase (Auth + DB), PostgreSQL, API development
+
+**Tools & Design**
+- Git & GitHub, Figma, Vercel, Clerk, Canva, AWS S3
+
+**Other Skills**
+- UI/UX Design, Responsive Layouts, Animations, PDF Exports, Confetti Celebration, State Management (Context API)
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Tech Stack | Description | Demo | Code |
+|--------|------------|-------------|------|------|
+| 🎯 **Python MCQs Test Platform** | Next.js, TS, Tailwind | Responsive quiz app with levels, 20 questions/test, PDF results, and confetti 🎉 | [Live](https://your-live-link.vercel.app) | [Repo](https://github.com/AliAskariGithub/python-quiz-app) |
+| 🧠 **Quiz App** | Next.js, TS, Tailwind, Shadcn | Quiz with categories (React, Next, TS), 4 difficulty levels, 20 MCQs, timer & result screen | Coming Soon | In Progress |
+| 🍔 **Food Delivery Site** | React, TS, Tailwind, Stripe | Modern UI with add-to-cart, live tracking, payment integration | Coming Soon | In Progress |
+| ✏️ **Sketchly** | Next.js, Clerk, Firebase, Canvas, S3 | Collaborative canvas app with export/import, themes, and team features | [Live](https://sketchly.vercel.app) | [Repo](https://github.com/AliAskariGithub/sketchly) |
+| 🧮 **Hackathon Milestones** | HTML, CSS, JS | 5 milestone apps including e-commerce, student card, and countdown timer | [Milestones](https://hackathon-milestones-nu.vercel.app) | [GitHub](https://github.com/AliAskariGithub) |
 
 ---
 
@@ -49,20 +53,32 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AliAskariGithub&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AliAskariGithub&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AliAskariGithub&theme=radical" width="49%" />
 </p>
 
 ---
 
-## 📬 Connect With Me
+## 🗂 Explore My Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/your-handle)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
+📦 `Pinned Repositories` → [@AliAskariGithub](https://github.com/AliAskariGithub)
+
+🛠 Some awesome creations include:
+- Calculator App
+- Portfolio Websites
+- Countdown Timer
+- Student ID Card Generator
 
 ---
 
-> 💡 “Keep building, keep learning, and always stay curious.”
+## 📬 Let’s Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/your-handle)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/your-handle)
+
+---
+
+> 🚀 *“Keep building, keep learning, and success will follow.”*  
+> – Ali Askari
