@@ -8,7 +8,7 @@ Currently exploring the intersection of **Machine Learning, and Scalable Cloud P
 ## 🚀 About Me
 
 - 🧠 I love creating intuitive, responsive, and scalable full-stack web applications.
-- 🌐 Stack: **Next.js**, **TypeScript**, **React**, **TailwindCSS**, **Firebase**, **Node.js**
+- 🌐 Stack: **Next.js**, **TypeScript**, **React**, **TailwindCSS**, **Node.js**
 - 🧪 Participated in **Hackathon Milestones** with real-world mini-projects.
 - 🌍 Student Leader at **GIAIC**, building a strong tech-driven future.
 - 📈 Goals: AI integrations, Backend mastery, cloud deployment, and impactful software.
